@@ -20,17 +20,21 @@ Use the latest version of HTML5
 
 ## Usage
 
-```python
-import foobar
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Efrei Paris - ChatBot</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+    <script></script>
+</body>
+</html>
 ```
 
 ## Contributing
