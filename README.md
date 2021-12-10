@@ -27,7 +27,7 @@ Use the latest version of HTML5
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Efrei Paris - ChatBot</title>
+    <title>Tars-Chatbot</title>
     <link href="style.css" rel="stylesheet">
 </head>
 <body>
