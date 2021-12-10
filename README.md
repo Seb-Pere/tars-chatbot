@@ -1,6 +1,6 @@
-# Foobar
+# Tars-Chatbot
 
-Foobar is a Python library for dealing with word pluralization.
+Tars-Chatbot is a chatbot created with https://hellotars.com/ which allows you to create a chatbot graphically without coding.
 
 ## Installation
 
