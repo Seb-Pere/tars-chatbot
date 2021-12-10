@@ -7,12 +7,15 @@
 
 Tars-Chatbot is a chatbot created with https://hellotars.com/ which allows you to create a chatbot graphically without coding.
 
+## Prerequisites
+
+- HTML5
+- CSS 2.1
+
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
-pip install foobar
+Use the latest version of HTML5, git clone and have fun !
 ```
 
 ## Usage
