@@ -38,6 +38,8 @@ Use the latest version of HTML5
 ```
 to insert another chatbot use: https://help.hellotars.com/en/articles/1001447-adding-bot-widget-on-your-site
 
+_Here an example with a codepen file_ : https://codepen.io/seb-pere/pen/vYeXWev
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
