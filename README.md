@@ -36,6 +36,7 @@ Use the latest version of HTML5
 </body>
 </html>
 ```
+to insert another chatbot use: https://help.hellotars.com/en/articles/1001447-adding-bot-widget-on-your-site
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
